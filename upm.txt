@@ -1,0 +1,6 @@
+NOtes for upm: 
+
+upm add <package_name>: adds a package to your project
+upm install <package_name>: installs a package and its dependencies
+upm search <term>: searches for packages matching the given term
+upm list: lists all installed packages

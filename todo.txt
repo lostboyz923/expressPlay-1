@@ -1,0 +1,6 @@
+To Do: 
+
+✅  a) create a splash page with image and login forms 
+✅  b) make sure the UX is responsive   
+    c) set up login forms with a database or whatever you need to use... figure it out... 
+    d) get it to where people can log in from aws to use YOMAN youtube commenter 

@@ -1,0 +1,26 @@
+}
+/*#titleImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  display: block; /* Make the image a block element */
+  margin: 0 auto; /* Center the image horizontally */
+  width: 50%; /* Adjust the width as needed */
+  top: 50%; /* Center the image vertically */
+  /*left: 50%; /* Center the image horizontally */
+  transform: translate(-50%, -50%); /* Allow positioning of child elements */
+}
+#pageTitle {
+  position: absolute; /* Position the title absolutely */
+  top: 20%; /* Align the title at the top */
+  /*left: 50%; /* Center the title horizontally */
+  transform: translateX(-50%); /* Adjust position for centering */
+  color: rgb(20, 230, 202); /* Set the title color (adjust as needed) */
+  font-size: 2em; /* Adjust font size as needed */
+  text-align: center; /* Center the title text */
+  width: 100%; /* Set the title width to 100% of its container */
+  margin: 0; /* Reset the margin */
+}
